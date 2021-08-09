@@ -1,0 +1,3 @@
+C:/Users/diazm/CLionProjects/Trabajodellunes2/cmake-build-debug/CMakeFiles/Trabajodellunes2.dir
+C:/Users/diazm/CLionProjects/Trabajodellunes2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diazm/CLionProjects/Trabajodellunes2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
